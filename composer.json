@@ -1,6 +1,19 @@
 {
+    "name": "mazhenov/own-mvc",
+    "description": "Own mvc framework.",
+    "keywords": ["framework", "own mvc"],
+    "license": "MIT",
+    "type": "project",
 	"require": {
         "vlucas/valitron": "^1.4",
-		"mazhenov/own-dd": "@dev"
-    }
+		"mazhenov/own-dd": "@dev",
+		"php": ">=5.3.2"
+    },
+	"authors": [
+        {
+            "name": "Mazhenov Aibek",
+            "email": "aibek.mazhenov@gmail.com"
+        }
+    ]
+	
 }
